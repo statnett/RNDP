@@ -1,4 +1,4 @@
-# 3. How to Get Access to the Research and Development Platform (RNDP)
+# How to Get Access to the Research and Development Platform (RNDP)
 
 Please email [Kjell Petter Myhren](mailto:kjell.myhren@statnett.no) in Research and Development (R&D), describing your research project and its needs. If your project is looking for a platform on which to conduct research, RNDP may be the right solution.
 
