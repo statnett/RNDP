@@ -10,7 +10,7 @@ Research and Development (R&D) established RNDP to collaborate with external res
 
 The platform was established in 2024 as a proof of concept on Azure Landing Zone. The project's goal was to create a scalable collaboration platform modeled on CERN's approach, but adapted to Statnett's Azure-first strategy and R&D's need to store large volumes of data.
 
-![CERN logo](https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/CERN_logo.svg/160px-CERN_logo.svg.png)
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/CERN_logo_badge.svg/250px-CERN_logo_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" alt="CERN logo" width="120">
 
 ## Goals for RNDP
 
