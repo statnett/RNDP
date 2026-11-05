@@ -14,7 +14,7 @@ The platform was established in 2024 as a proof of concept on Azure Landing Zone
 
 ## Goals for RNDP
 
-- Access for external and internal users.
+- Access for internal and external (partner) users.
 - The ability to securely make large volumes of data available and store them.
 - Support for all forms of data analysis.
 - Scalable and dynamic compute support.
